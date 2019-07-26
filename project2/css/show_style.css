@@ -1,0 +1,26 @@
+@charset "utf-8";
+img {
+	width: 200px;
+	height: 200px;
+	float: left;
+	clear: both;
+}
+.image {
+	margin-left: 301px;
+	margin-top: 150px;
+	float: left;
+	clear: both;
+}
+		.contant {
+	margin-top: -182px;
+	margin-left: 600px;
+	clear: both;
+	float: left;
+	font-family: "Gill Sans", "Gill Sans MT", "Myriad Pro", "DejaVu Sans Condensed", Helvetica, Arial, sans-serif;
+	font-size: x-large;
+}
+.change_image {
+	top: 134px;
+	margin-top: 350px;
+	margin-left: 300px;
+}

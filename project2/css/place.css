@@ -1,0 +1,92 @@
+.trip{
+    width: 100%;
+    height: 500px;
+    background-image: url(../images/building.jpg);
+    margin-top: -50px;
+}
+.form-control {
+ display: inline;
+  width: 400px;
+  margin-right: -100px;
+}
+.go{
+    margin-top: -2px;
+    margin-left: 35px;
+}
+.drive{
+    position:absolute;
+    margin: 100px;
+    margin-top: 135px;
+    margin-left: 350px;
+}
+.cyc{
+
+  width: 200px;
+  height: 200px;
+  border-radius: 150px;
+  background-color: #ffbf00;
+  position: absolute;
+  margin-left: 850px;
+  margin-top: 60px;
+  font-size:35px;
+  padding-left: 30px;
+  padding-top: 40px;
+
+
+}
+.container_prof{
+    width: 1200px;
+    height: auto;
+    margin-left: 90px;
+
+}
+.profile{
+    width: 350px;
+    height: 250px;
+    background-color: #fff;
+    margin-left: 30px;
+    margin-top: 20px;
+    float: left;
+
+}
+
+.prof_info{
+    width: 350px;
+    height: 200px;
+    background-image: url(../images/p20.jpg);
+
+}
+.prof{
+    width: 150px;
+    height: 160px;
+    background-color:;
+    margin-left: 100px;
+    padding-top: 20px;
+
+}
+.profile_pic{
+    width: 120px;
+    height: 120px;
+    background-image: url(../images/om.jpg);
+    border-radius: 60px;
+    margin-left: 15px;
+
+
+}
+.info{
+    width: 140px;
+    height: 50px;
+    padding: 5px;
+    color: aliceblue;
+
+}
+.price{
+    width: 45px;
+    height: 60px;
+    background-color: darkmagenta;
+    border-bottom-right-radius: 5px;
+    border-bottom-left-radius: 5px;
+    position: absolute;
+    margin-top: -160px;
+    margin-left: 290px;
+}

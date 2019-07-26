@@ -1,0 +1,43 @@
+@charset "utf-8";
+/* CSS Document */
+
+
+
+.btn-danger
+{
+	width:80px;
+}
+
+.input{width:300px}
+header{margin-top:30px;margin-bottom:50px;}
+footer{margin-top:50px;font-size:12px;text-align:center}
+
+.all_cont{
+	width: 400px;
+	height: 500px;
+	padding-top: 20px;
+	margin-left: 550px;
+	background-color: #e6b800;
+	border-radius: 5px;
+margin-top: -400px;
+	position: absolute;
+}
+.al{
+	margin-left: 50px;
+
+}
+.nal{
+	width: 300px;
+	height: 50px;
+	margin-left: 50px;
+	font-size: 25px;
+	font-family: sans-serif;
+}
+.backimage{
+	width: auto;
+	height: 500px;
+	background-image: url(../images/house-car.jpg);
+
+	margin-top: -50px;
+
+	}
