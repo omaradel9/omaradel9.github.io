@@ -1,0 +1,18 @@
+
+.rate{
+	width:230px; height: 40px;
+	border:;
+	background-color:  ;
+	margin:0px auto;
+	margin-bottom:0px;
+}
+.rate .rate-btn{
+	width: 45px; height:40px;
+	float: left;
+	background: url(rate-btn.png) no-repeat;
+	cursor: pointer;
+}
+.rate .rate-btn:hover, .rate  .rate-btn-hover, .rate  .rate-btn-active{
+	background: url(rate-btn-hover.png) no-repeat;
+}
+
